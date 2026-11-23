@@ -1,18 +1,17 @@
 # Hi, I'm Xingcan 👋
 
-I'm an aspiring Data and Quantitative Analyst with an interest in data analytics, financial markets, and statistical modelling.
+I'm a Mathematics MMath student at the University of Oxford, with interests in quantitative finance, statistical modelling, and data science.
 
-I'm currently developing practical skills in Python, SQL, and data-driven problem solving through independent projects.
+I'm developing practical experience in Python, SQL, and quantitative analysis through academic research and independent projects.
 
 ### 🔧 Technical Skills
-- **Programming:** Python, SQL
-- **Libraries & Tools:** Pandas, NumPy, Data Visualization
+- **Programming:** Python, SQL, R
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib
 - **Currently Exploring:** Machine Learning, Statistical Modelling, Data Engineering
 - **Interests:** Data Analytics, Quantitative Finance, Data Science, Financial Risk Modelling
 
 ### 📂 Featured Projects
-Retail Sales & Customer Analytics
-
+**Retail Sales & Customer Analytics**
 An ongoing PostgreSQL project exploring retail sales data, customer behaviour, data quality, and SQL query optimisation.
 
 ### 📫 Connect
