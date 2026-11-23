@@ -6,8 +6,9 @@ I'm currently developing practical skills in Python, SQL, and data-driven proble
 
 ### 🔧 Technical Skills
 - **Programming:** Python, SQL
-- **Currently Learning:** Pandas, NumPy, Data Visualization
-- **Interests:** Data Analytics, Quantitative Finance, Data Science
+- **Libraries & Tools:** Pandas, NumPy, Data Visualization
+- **Currently Exploring:** Machine Learning, Statistical Modelling, Data Engineering
+- **Interests:** Data Analytics, Quantitative Finance, Data Science, Financial Risk Modelling
 
 ### 📂 Featured Projects
 
