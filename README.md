@@ -11,7 +11,8 @@ I'm developing practical experience in Python, SQL, and quantitative analysis th
 - **Interests:** Data Analytics, Quantitative Finance, Data Science, Financial Risk Modelling
 
 ### 📂 Featured Projects
-**Retail Sales & Customer Analytics**
+[**Retail Sales & Customer Analytics**](https://github.com/xingcan-yi/retail-sales-customer-analytics)
+
 An ongoing PostgreSQL project exploring retail sales data, customer behaviour, data quality, and SQL query optimisation.
 
 ### 📫 Connect
